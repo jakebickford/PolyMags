@@ -1,4 +1,4 @@
-# PolyMags
+# Computational access to the Polytechnic Magazine (1879 - 1960)
 
 This project aimed to unlock new ways of accessing a digitised collection of historic magazines held by the University of Westminster Archive. 
 
