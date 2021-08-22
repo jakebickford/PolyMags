@@ -11,6 +11,6 @@ This project aims to complement the existing resource by opening up computationa
 ### Public notebooks
 These are designed to be accessible to all users, and to serve as an introduction to the corpus and the sort of techniques that could be used with it. 
 The notebooks are available to run live, in Google collab. Note that to run the code you need to be signed in with a Google account.
-[Frequency Analysis and Named Entity Recognition](https://colab.research.google.com/drive/1Wa44qr8xMK2kd-eIk-M0_-IqW41D2nB3?usp=sharing)
-[Topic modelling] (https://colab.research.google.com/drive/1HAS-Xo3EH_O93Lp_nTV4pZT3eV8F5bBX?usp=sharing)
+* [Frequency Analysis and Named Entity Recognition](https://colab.research.google.com/drive/1Wa44qr8xMK2kd-eIk-M0_-IqW41D2nB3?usp=sharing)
+* [Topic modelling](https://colab.research.google.com/drive/1HAS-Xo3EH_O93Lp_nTV4pZT3eV8F5bBX?usp=sharing)
 
