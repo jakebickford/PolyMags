@@ -16,6 +16,6 @@ The notebooks are available to run live, in Google collab. Note that to run the 
 
 ### The corpus 
 If you are more experienced with computational analysis of text, you might prefer to download the corpus itself. This is available to download from Google drive as either:
-* A pickled [Pandas DataFrame](https://drive.google.com/file/d/1uvog_cKlc3fFbVdkmUgoYtRzB9Dv8GEj/view?usp=sharing)
+* A pickled [Pandas DataFrame](https://drive.google.com/file/d/1uvog_cKlc3fFbVdkmUgoYtRzB9Dv8GEj/view?usp=sharing)(774.6MB)
   The DataFrame contains a row for each issue of the magazine, with columns containing the text, metadata such as the date of the issue, and with different instances of text processing such as tokenisation, and lemmatisation.
-* A zipped [set of the OCR'd text files](https://drive.google.com/file/d/17NlNzqnHHE8be3YR1cz7dC8xFG9kTgTH/view?usp=sharing). When I began the project, I re-OCR'd the existing scanned documents with Tesseract v5 and did some basic correction with regular expressions. This is the result. There is one .txt file for each of the 1725 issues I chose to look at. 
+* A zipped [set of the OCR'd text files](https://drive.google.com/file/d/17NlNzqnHHE8be3YR1cz7dC8xFG9kTgTH/view?usp=sharing)(78MB). When I began the project, I re-OCR'd the existing scanned documents with Tesseract v5 and did some basic correction with regular expressions. This is the result. There is one .txt file for each of the 1725 issues I chose to look at. 
