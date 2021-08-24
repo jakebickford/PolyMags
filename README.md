@@ -19,3 +19,11 @@ If you are more experienced with computational analysis of text, you might prefe
 * A pickled [Pandas DataFrame](https://drive.google.com/file/d/1uvog_cKlc3fFbVdkmUgoYtRzB9Dv8GEj/view?usp=sharing) (774.6MB)
   The DataFrame contains a row for each issue of the magazine, with columns containing the text, metadata such as the date of the issue, and with different instances of text processing such as tokenisation, and lemmatisation.
 * A zipped [set of the OCR'd text files](https://drive.google.com/file/d/17NlNzqnHHE8be3YR1cz7dC8xFG9kTgTH/view?usp=sharing) (78MB). When I began the project, I re-OCR'd the existing scanned documents with Tesseract v5 and did some basic correction with regular expressions. This is the result. There is one .txt file for each of the 1725 issues I chose to look at. 
+
+## Secondary material
+
+### Preparatory notebooks
+These were used to prepare the corpus and to experiment with natural language processing techniques to use in the public notebooks. If you would like to see how the text was processed to create the corpus DataFrame and the public notebooks, you can download the preparatory notebooks from the [PreparatoryNotebooksFinal](https://github.com/jakebickford/PolyMags/tree/main/PreparatoryNotebooksFinalfolder) above.
+
+### File list
+This csv contains the 
