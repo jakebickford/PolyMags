@@ -26,4 +26,4 @@ If you are more experienced with computational analysis of text, you might prefe
 These were used to prepare the corpus and to experiment with natural language processing techniques to use in the public notebooks. If you would like to see how the text was processed to create the corpus DataFrame and the public notebooks, you can download the preparatory notebooks from the [PreparatoryNotebooksFinal](https://github.com/jakebickford/PolyMags/tree/main/PreparatoryNotebooksFinalfolder) above.
 
 ### File list
-This csv contains the 
+This CSV contains a list of all the Polytechnic Magazine files along with metadata such as date and number of pages for each issue. It was used as the basis for the corpus DataFrame. The CSV is in the same folder as the preparatory notebooks. 
